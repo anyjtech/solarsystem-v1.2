@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Tata Surya 3D",
+  "description": "Simulasi tata surya interaktif dalam 3D dengan visualisasi orbit, kontrol rotasi, zoom kamera, dan lembar fakta mendalam tentang setiap planet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
