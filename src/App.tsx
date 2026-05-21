@@ -45,10 +45,10 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-4xl font-extralight tracking-[0.2em] text-white leading-none uppercase">
-              COSMOS
+            SOLAR SYSTEM SIM
             </h1>
             <span className="text-[10px] uppercase tracking-[0.35em] text-cyan-400 mt-2 block font-mono font-bold">
-              SIMULASI TATA SURYA v4.2
+              AstroOs v1.2
             </span>
           </div>
         </div>
