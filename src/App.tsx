@@ -161,7 +161,7 @@ export default function App() {
       <footer className="border-t border-white/5 bg-[#020205] py-8 px-6 text-center text-xs text-gray-500 font-mono select-none">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <span>
-            © 2026 COSMOS SIMULATOR · PROYEKSI ORTOGRAFIS 3D KINESTETIK TATA SURYA
+            © 2026 SOLAR SYSTEM SIMULATOR · PROYEKSI ORTOGRAFIS 3D KINESTETIK TATA SURYA by ARKAN NAYMAR AJI
           </span>
           <span className="flex items-center gap-2 text-[11px] text-gray-400">
             GRAVITASI ASING: <strong className="text-cyan-400">AKTIF</strong> · TELEMETRI ORBITAL: <strong className="text-cyan-400">KOSMIS</strong>
