@@ -750,7 +750,7 @@ export const SolarSystemCanvas: React.FC<SolarSystemCanvasProps> = ({
         <div className="flex items-center gap-1.5 ">
           <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse" />
           <span className="text-[10px] font-mono font-bold tracking-[0.2em] text-cyan-400">
-            KOSMOS-3D ENGINE v4.2
+            ASTROOS-3D ENGINE v1.2
           </span>
         </div>
         <div className="text-[10px] text-gray-400 font-mono flex flex-col gap-0.5 mt-1.5 lowercase">
